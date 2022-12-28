@@ -30,5 +30,5 @@ module.exports = client;
 });
 
 
-client.login('MTAzODczMzI1NDYxMTcxMDAyMg.GfM8Tk.wcZdrtKfXmdHMUlohj6H64M0DZW1EdRB386xfw')
+client.login(process.env.token)
 
